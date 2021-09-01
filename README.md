@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabiolk00
 - 👀 I’m interested in intership roles;
-- 🌱 I’m currently learning JS, CSS, HTML;
+- 🌱 I’m currently learning JS, PHP, CSS, HTML;
 - 📫 How to reach me fabio.kro@outlook.com;
 
 <!---
