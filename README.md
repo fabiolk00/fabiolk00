@@ -2,7 +2,7 @@
 - 👀 I’m interested in intership roles;
 - 🌱 I’m currently learning JS, PHP, CSS, HTML;
 - 📫 How to reach me fabio.kro@outlook.com;
- <div display = "flex" justify-content = "space-evenly">
+ <div display = "flex">
   <a href="https://github.com/fabiolk00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolk00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolk00&layout=compact&langs_count=7&theme=dracula"/>
