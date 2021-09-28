@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS, PHP, CSS, HTML;
 - 📫 How to reach me fabio.kro@outlook.com;
 - 
- <div align="center">
+ <div>
   <a href="https://github.com/fabiolk00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolk00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
